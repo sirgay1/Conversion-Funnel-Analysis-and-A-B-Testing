@@ -1,0 +1,6 @@
+pandas>=2.2,<4
+numpy>=2,<3
+scipy>=1.14,<2
+statsmodels>=0.14,<0.16
+matplotlib>=3.9,<4
+ipykernel>=6,<8
